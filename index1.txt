@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Final Project HTML</title>
+</head>
+<body style="font-family: Arial;">
+	<h1>Final Project Siswa</h1>
+	<p>Silahkan edit halaman ini menjadi karya terbaik mu!</p>
+	
+	<h2>nama:</h2>
+	<p>(Isi Nama Siswa)</p>
+	
+	<h2>Desripsi Wevsite:</h2>
+	<p>(Siswa bisa menulis deskripsi website di sini)</p>
+</body>
+</htmo>
