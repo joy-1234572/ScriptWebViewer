@@ -11,6 +11,6 @@
 	<p>(Isi Nama Siswa)</p>
 	
 	<h2>Desripsi Wevsite:</h2>
-	<p>(Siswa bisa menulis deskripsi website di sini)</p>
+	<p>(Kehidupan sehari-hari kucing peliharaan didominasi oleh ritme alami yang terbagi antara tidur panjang—di mana mereka menghabiskan hingga 20 jam sehari untuk beristirahat dan menyimpan energi—dan aktivitas yang didorong oleh naluri predator mereka. Rutinitas mereka melibatkan sesi panjang perawatan diri (grooming) untuk menjaga kebersihan dan ketenangan, diikuti oleh periode singkat bermain, mengintai, atau mengejar mainan untuk memuaskan insting berburu mereka. Komunikasi juga menjadi bagian penting, di mana mereka menggunakan dengkur, gesekan kepala, dan berbagai jenis meongan untuk berinteraksi dengan manusia dan menandai lingkungan mereka, menjadikan setiap hari sebagai perpaduan yang seimbang antara konservasi energi dan eksplorasi lingkungan yang aman.)</p>
 </body>
-</htmo>
+</html>
